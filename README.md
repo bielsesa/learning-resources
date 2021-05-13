@@ -4,7 +4,10 @@ Useful links, resources and book recomendations for self-education! 🐱‍💻�
 
 ### Gamedev
 
-[Learn SFML](https://www.sfml-dev.org/learn.php)
+<details>
+  <summary>View Gamedev-related links</summary>
+  <a href="https://www.sfml-dev.org/learn.php">Learn SFML</a>
+</details>
 
 ## Books 📙
 
